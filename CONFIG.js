@@ -1,4 +1,5 @@
 const CONFIGDATA = {
+  titleWeb: "Tụi em xin lỗi cô",
   titleHeader: "Cô ơi, cô cho tụi em xin lỗi vì chiều nay đã làm không được vui",
   descriptionHeader:
     "Cô chấp nhận lời xinloi của bọn em được không ạ ^^",
